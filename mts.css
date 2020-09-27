@@ -1,0 +1,25 @@
+body{
+	background-color:aquamarine;
+	color:darkcyan;
+}
+
+.Title{
+
+	color:darkolivegreen;
+	font-family:"Noto Sans JP",serf;
+	text-align:center;
+}
+
+ul{
+list-style-type: none;
+margin:10px;
+padding:5px;
+
+}
+
+li{
+	display:inline;
+	padding:20px;
+	align-content: center;
+	margin-right: auto;
+}
